@@ -1,4 +1,4 @@
-# The Online BRT Planning Guide [![Current version](https://img.shields.io/badge/view-brtguide.itdp.org-blue.svg?style=flat-square)](https://brtguide.itdp.org).
+# The Online BRT Planning Guide [![Current version](https://img.shields.io/badge/view-brtguide.itdp.org-blue.svg?style=flat-square)](https://brtguide.itdp.org)
 
 The Bus Rapid Transit Planning Guide is the most comprehensive resource for
 planning a bus rapid transit (BRT) system, beginning with project preparation
